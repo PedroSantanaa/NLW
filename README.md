@@ -20,4 +20,4 @@ Mais contatos na página
 
 ## 🔗 Para acessar a página
 
-[Clique aqui para acessar](pedrosantanaa.github.io/NLW)
+[Clique aqui para acessar](https://pedrosantanaa.github.io/NLW/)
